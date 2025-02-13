@@ -1,6 +1,4 @@
-Here's an update with added stickers to make it more visually appealing and professional:
 
-```markdown
 # Medical Chatbot with AI and Semantic Search
 
 ![AI Chatbot](https://img.shields.io/badge/AI-Powered%20Chatbot-blue?style=for-the-badge&logo=chatbot)
