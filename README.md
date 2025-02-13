@@ -107,5 +107,3 @@ This project is licensed under the MIT License.
 
 ![Thank You](https://img.shields.io/badge/Thank%20You-For%20Your%20Support-green?style=for-the-badge)
 ```
-
-I've added badge-style stickers to emphasize key features and sections for a more attractive, professional presentation. Let me know if you'd like more changes!
